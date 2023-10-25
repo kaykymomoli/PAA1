@@ -1,0 +1,12 @@
+4.
+a) A técnica de divisão e conquista é uma estratégia de projeto de algoritmos que consiste em dividir um problema maior em problemas menores, 
+resolver esses problemas menores e, em seguida, combinar suas soluções para resolver o problema original.
+
+b) Uma situação de uso da técnica de projeto de algoritmos por divisão e conquista é a ordenação de um vetor de números inteiros. 
+O algoritmo de ordenação por divisão e conquista, conhecido como quicksort, funciona da seguinte forma:
+
+1. O vetor é dividido em dois subvetores, um com os números menores que o pivô e outro com os números maiores ou iguais ao pivô.
+2. O algoritmo é aplicado recursivamente a cada um dos subvetores.
+3. Os dois subvetores ordenados são combinados para formar o vetor ordenado.
+
+A complexidade de tempo do quicksort é O(n log n), onde n é o tamanho do vetor. 
